@@ -1,5 +1,6 @@
 ### Hi there!! 👋
 
+- 🌱 I'm a junior full stack developer!
+- 🚀 My stack: PERN & MERN
 - 🔭 I’m currently working on my first development tasks, please be gentle!
-- 🌱 Studying to become a full stack developer!
 - 😄 Pronouns: she/her
